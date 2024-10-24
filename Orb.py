@@ -8,5 +8,4 @@ class Orb:
         pass
 
     def draw(self, window):
-        window.moNvSHA256:/1zVrIdl97Qv4kCVLLSiUoWR+dqiON5sj/ucQkPccGI
-
+        pass
